@@ -1,0 +1,70 @@
+.container{
+    height: 80px;
+    width: auto;
+    
+
+}
+.img{
+    height: 80px;
+    width: 80px;
+    float: left;
+}
+
+.home{
+    height: 80px;
+    width: 80px;
+    float: right;
+}
+.contact{
+    height: 80px;
+    width: 80px;
+    float: right;
+}
+.about{
+    height: 80px;
+    width: 80px;
+    float: right;
+}
+
+.img1{
+    height: 400px;
+    width: 400px;
+    float: left;
+
+}
+.para{
+   
+    height: 400px;
+    width: 400px;
+    float: right;
+    text-align: center;
+    
+}
+.container1{
+    height: 400px;
+    width: auto;
+}
+
+.container2{
+    height: 400px;
+    width: auto;
+}
+
+.embed{
+    height: 215px;
+    width: 400px;
+    float: left;
+    margin-top: 40px;
+    
+}
+
+.text{
+    height: 100px;
+    width: 400px;
+}
+
+.form{
+    float: right;
+    height: 252px;
+    width: 400px;    
+}
